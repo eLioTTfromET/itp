@@ -1,6 +1,4 @@
-# itp
+# scratch
 
 ## Eliott!
-+ [RACHEL REAL WEBSITE](https://racheldevorah.studio)
-
-**ooo bold**
+hey hey hey FHGGGFFUAAAABBBBBAAGAGAGAAAA
