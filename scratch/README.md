@@ -1,4 +1,11 @@
 # scratch
+## Eliott Mendoza
+I felt like a kid again doing this project. It was so easy to get my ideas out on scratch. My first decision was getting rid of the lil cat dude. I was scrolling, scrolling, scrolling through the different characters till I came across a cute lil puppy and a squirrel, and the inside of my head went: AHA! HERE IT IS!
+I wanted the dog to be chasing the squirrel in some way. Ok, so what background would it be appropriate for a puppy and a squirrel to be playing? AHA! A tree!
+Thank goodness for tree background.
+Ok, so then I started brainstorming on what the game would be. "The squirrel should probably hide behind the tree," I thought. Ahh, yes. The dog is gonna be looking for the squirrel. Well, what costumes does the dog have? YES! THIS IS PERFECT! The puppy can look at the squirrel behind the tree! Or, well, almost look at the squirrel. Every time you try clicking on the squirrel to let the dog know where the squirrel is, the squirrel hides behind the tree again, and the dog can't find the squirrel.
+I wanted a few spots for the squirrel to be able to hide, so I mapped out a few spots and randomized where the squirrel would appear. So then, I decided, the puppy should run over to where the squirrel is and sniff around and get disappointed and go back to the center. E voila!
+Then it was time to add some sounds. I wanted a little soundtrack to the game, so I chose the first funny sounding one I found. I naturally want the puppy to bark and growl, and I want the squirrel to tease the puppy with funny sounds. Figuring out how to implement it wasn't that hard; it was just a matter of patient trial and error.
+The final part was adding the thought bubbles and the use of a variable. The variable was easy enough: I just replaced a spot that makes use of a changing variable and replaced it with the proper variable objects. The thought bubbles give a little story to the whole thing, showing that even though the puppy will never find the squirrel, the puppy will not give up. And the whole point is to keep looking for the squirrel but never end up catching. And with all the funny stuff, it makes it kinda fun to never catch the squirrel. The winner is the player who leaves being okay with never catching the squirrel (or the winner is alternatively the one who modifies the code so they are able to catch the squirrel, and then catch the squirrel lol).
 
-## Eliott!
-hey hey hey FHGGGFFUAAAABBBBBAAGAGAGAAAA
+-el
