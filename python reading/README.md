@@ -1,5 +1,5 @@
 # Python Reading
-+ [Think Python by Allen B. Downey](https://greenteapress.com/thinkpython2/html/index.html)
+[Think Python by Allen B. Downey](https://greenteapress.com/thinkpython2/html/index.html)
 
 Eliott Mendoza
 
