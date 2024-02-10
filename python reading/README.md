@@ -1,5 +1,6 @@
 # Python Reading
 + [Think Python by Allen B. Downey](https://greenteapress.com/thinkpython2/html/index.html)
+
 Eliott Mendoza
 
 ## Ch. 1: The way of the program
