@@ -4,6 +4,7 @@ Eliott Mendoza
 
 ## Ch. 1: The way of the program
 + what I knew: "So you can think of programming as the process of breaking a large, complex task into smaller and smaller subtasks until the subtasks are simple enough to be performed with one of these basic instructions."
+
 I like programming for this reason, and I generally think of programming this way. Although it is very eloquent the way they put it.
 + what I didn't know: "Preparing for these reactions might help you deal with them. One approach is to think of the computer as an employee with certain strengths, like speed and precision, and particular weaknesses, like lack of empathy and inability to grasp the big picture. Your job is to be a good manager: find ways to take advantage of the strengths and mitigate the weaknesses. And find ways to use your emotions to engage with the problem, without letting your reactions interfere with your ability to work effectively."
 I had never thought of the computer in this way before! This is a neat way to think of the computer that is really helpful and resonates with me.
