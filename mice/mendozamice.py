@@ -1,0 +1,1 @@
+print(f"\n\t\t{1+2}\n\t\t\tBlind\n\t\t\t\tMice")
