@@ -1,1 +1,1 @@
-print(f"\n\t\t{1+2}\n\t\t\tBlind\n\t\t\t\tMice")
+print(f"\n\t\t{1000000000000000%999999999999997}\n\t\t\tBlind\n\t\t\t\tMice")
