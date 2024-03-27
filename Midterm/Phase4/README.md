@@ -1,0 +1,19 @@
+# Phase 4
+
+This phase was by far the most difficult but the most fun!
+
+So when I first started this phase, I was real clueless. I hardly knew how to start, even when reading the instructions. Perhaps this is because my body was just overwhelmed with how to execute the final task of the phase. A little internal anxiety moment. But then I broke it down, talking to myself out loud, telling myself the very first thing I wanted to do and going from there.
+
+So after fucking around and finding out and not really getting anywhere, the thought I had was, "I need to get the number of objects to print across AND down!" The very first thing I did after that was follow the hint of using a for loop for the x and y axis of the grid. I rolled the reel back to when I made the pyramid code and saw how I had done that and used that to help myself out with this phase. Okay! So I was able to print multiple things across! But the variables weren't aligning right.
+
+The next thing I did was try to figure out the right dimensions for printing across, so that the next object prints where I want to print it on the grid. I knew that in the current scale (scale of 1) it was going to be 30 across and 30 down. I wanted to do it this way (where the objects overlay each other) to get the optical illusion I was going for. Also, I wanted the circles on the edges of the canvas to be cut off because otherwise there is black on the edges and it doesn't look like it goes forever. The next I needed to do was figure out how many to print to get across a 400 x 400 canvas size. This was easy! Divide 400 by 30 and... oh wait, but they overlay. That means that I need to subtract 10 for the last object... Okay, so I subtract 10 from 400 and then divide by 30. That means 13 x 13 objects would fit perfectly on a 400 x 400 grid.
+
+This is great! I was able to print multiple objects on the canvas! The next step was figuring out how to scale them right and be able to print the right amount of scaled objects on the canvas. This is where I got to talking out loud a lot. I spent maybe half an hour to an hour just talking to myself out loud just trying to reason it out. Some thoughts I was having were too fast to say out loud, but I would just summarize my thoughts in speech. This really helped.
+
+"If I do less objects, this has to get bigger and this has to get bigger. That means I have to divide by that number on both of these parts... That makes sense because then if I do more objects it'll get smaller!"
+
+It was a lot of that^ and I would always try to make sure that the value that I was dividing by or multiplying by would still equal the value that it was originally before any calculations. I would have to keep doing division on the drawObject() variables or on the scale() variables. I kept getting rid of set-in-stone numbers to be dependent on the size of the canvas or on the number of objects to print. A lot of talking out loud; for the amount I needed to subtract by was the hardest one to catch, but I eventually got it. Again, I started with the scale value of 1 so that I would need the calculation to equal 10. Then upon writing this, I realized there was something that I was still missing! The amount that was subtracted was set to 120.0, but I needed to set it to reference the width and height of the canvas instead of 120 (which would be good for a canvas value of 500 x 500). So then I subtract it by width/(4.0 x n).
+
+At the very end (before that^ last realization) I decided to make it easier to change the values with global variables at the top and add the option to set different values for the x and y dimensions of the grid, along with descriptions of what the variables do. At this point, I'm done and I get a 100 hopefully! If not, oh well, I had fun and I made something cool :)
+
+Eliott
