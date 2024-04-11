@@ -1,0 +1,10 @@
+# collaborative website
+
+- [our website!](https://eliottfromet.github.io)
+
+  self-assessment:
+  When we first got our group together, we didn't know where to station ourselves. I offered to get together by the piano, and Ethan and Ghibbi were down for that. We naturally graviated towards what we wanted to work on on the project. I proposed to work on the pictures of us, so I asked everyone to AirDrop me some pictures. I edited them and put them together with some cool background and made us the backyardigans. This took me a while. I chose the color of the background on the CSS file and made all the font papyrus to make us look fancy. I also worked on the description of my character, the description of Robert, the description of the skeleton dude, and the roles of all the characters. Robert was the only description I searched on ChatGPT (https://chat.openai.com/share/ed248013-61f8-4180-a7ac-938c5e6926c4). I also searched for a description for the skeleton, but the one it gave me I didn't like so I just made mine up. I worked up making the descriptions kinda funny and the roles more than just typical instruments. Everyone needed a vocal part, but different ones. I added all this to the HTML file. Additionally, I helped Ghibbi a little bit with suggestions on the song and exporting the song. I put up the description of us as nappy intellectuals.
+
+assessment of the other members:
+Ghibbi made the song on Ableton, adding a drum, a sample and messing around with a MIDI instrument. They were making it sound silly and goofy and fun. They also made the logo for the band and the self-description on HTML. They made the music to represent the entire band. They also made a quote to describe who we are and what we do.
+Ethan worked on the layout of the page on the HTML file and the CSS file. They were working on the placement of all the information and the layout of the page. They also made their own description for the drummer. They typed up the quote of "people" and of Ghibbi and I.
